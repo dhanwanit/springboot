@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: dhr70/kubernetes:jhooq-k8s-springboot
+          image: dhr70/jhooq-docker-demo
 
           resources:
             requests:
